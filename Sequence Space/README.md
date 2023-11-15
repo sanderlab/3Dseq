@@ -1,7 +1,7 @@
 
 # Sequence Space Scripts
 
-Requires `sequence_space_data.zip` from https://evcouplings.org/3Dseq
+Requires `sequence_space_data.zip` from https://api.evcouplings.org/3Dseq/
 
 1. `Load Taxonomy Labels from Uniprot.ipynb`
    This notebook contains code used to download taxonomy labels sequences. It was
